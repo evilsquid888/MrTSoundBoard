@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Mr T Soundboard</string>
+    <string name="app_name">Mr T Soundboard</string>
+    <string name="main_title">Mr T Soundboard</string>
+    <string name="button0_label">get out of my way</string>
+    <string name="button1_label">how about this</string>
+    <string name="button2_label">teach a lesson</string>
+    <string name="button3_label">mind your business</string>
+    <string name="button4_label">people never learn</string>
+    <string name="button5_label">no, fool</string>
+    <string name="button6_label">pity the fool</string>
+    <string name="button7_label">shutup fool</string>
+    <string name="button8_label">what this fool</string>
+    <string name="button9_label">you tricked me</string>
+	<string name="button10_label">just a crazy man</string>
+    <string name="button11_label">my business</string>
+    <string name="about_label">About...</string>
+    <string name="about_title">About...</string>
+    <string name="about_ok">Ok</string>
+    <string name="quit_label">Quit</string>
+</resources>

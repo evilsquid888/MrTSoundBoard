@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+   xmlns:android="http://schemas.android.com/apk/res/android"
+   xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+   android:layout_width="fill_parent"
+   android:layout_height="fill_parent">
+
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:background="@drawable/background"
+        android:id="@+id/screen0"
+            >
+		
+
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_span="2"
+	>
+		<Button android:id="@+id/button0"
+			android:layout_width="fill_parent"
+			android:layout_height="70px"
+			android:layout_weight="1"
+			android:text="@string/button0_label" android:background="@drawable/glossy" android:textStyle="bold"/>
+		<Button android:id="@+id/button1"
+			android:layout_height="70px"
+			android:layout_width="fill_parent"
+			android:layout_weight="1"
+			android:text="@string/button1_label"
+		android:background="@drawable/glossy" android:textStyle="bold"/>
+	</LinearLayout>
+	
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_span="2"
+	>
+		<Button android:id="@+id/button2"
+			android:layout_width="fill_parent"
+			android:layout_height="70px"
+			android:layout_weight="1"
+			android:text="@string/button2_label"
+		android:background="@drawable/glossy" android:textStyle="bold"/>
+		<Button android:id="@+id/button3"
+			android:layout_width="fill_parent"
+			android:layout_height="70px"
+			android:layout_weight="1"
+			android:text="@string/button3_label"
+		android:background="@drawable/glossy" android:textStyle="bold"/>
+	</LinearLayout>
+	
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_span="2"
+	>
+		<Button android:id="@+id/button4"
+			android:layout_width="fill_parent"
+			android:layout_height="70px"
+			android:layout_weight="1"
+			android:text="@string/button4_label"
+		android:background="@drawable/glossy" android:textStyle="bold"/>
+		<Button android:id="@+id/button5"
+			android:layout_width="fill_parent"
+			android:layout_height="70px"
+			android:layout_weight="1"
+			android:text="@string/button5_label"
+		android:background="@drawable/glossy" android:textStyle="bold"/>
+	</LinearLayout>
+	
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_span="2"
+	>
+		<Button android:id="@+id/button6"
+			android:layout_width="fill_parent"
+			android:layout_height="70px"
+			android:layout_weight="1"
+			android:text="@string/button6_label"
+		android:background="@drawable/glossy" android:textStyle="bold"/>
+		<Button android:id="@+id/button7"
+			android:layout_width="fill_parent"
+			android:layout_height="70px"
+			android:layout_weight="1"
+			android:text="@string/button7_label"
+		android:background="@drawable/glossy" android:textStyle="bold"/>
+	</LinearLayout>
+
+	<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_span="2"
+	>
+		<Button android:id="@+id/button8"
+			android:layout_width="fill_parent"
+			android:layout_height="70px"
+			android:layout_weight="1"
+			android:text="@string/button8_label"
+		android:background="@drawable/glossy" android:textStyle="bold"/>
+		<Button android:id="@+id/button9"
+			android:layout_width="fill_parent"
+			android:layout_height="70px"
+			android:layout_weight="1"
+			android:text="@string/button9_label" android:background="@drawable/glossy" android:textStyle="bold"/>
+	</LinearLayout>
+	
+		<LinearLayout
+		android:orientation="horizontal"
+		android:layout_width="fill_parent"
+		android:layout_height="wrap_content"
+		android:layout_span="2"
+	>
+		<Button android:id="@+id/button10"
+			android:layout_width="fill_parent"
+			android:layout_height="70px"
+			android:layout_weight="1"
+			android:text="@string/button10_label"
+		android:background="@drawable/glossy" android:textStyle="bold"/>
+		<Button android:id="@+id/button11"
+			android:layout_width="fill_parent"
+			android:layout_height="70px"
+			android:layout_weight="1"
+			android:text="@string/button11_label" android:background="@drawable/glossy" android:textStyle="bold"/>
+	</LinearLayout>
+	</LinearLayout>
+</ScrollView>
